@@ -1,0 +1,82 @@
+app.coffee
+framer/backups/backup-2017-08-30 15.17.29.coffee
+framer/backups/backup-2017-08-30 15.18.29.coffee
+framer/backups/backup-2017-08-30 15.19.29.coffee
+framer/backups/backup-2017-08-30 15.20.29.coffee
+framer/backups/backup-2017-08-30 15.21.29.coffee
+framer/backups/backup-2017-08-30 15.22.29.coffee
+framer/backups/backup-2017-08-30 15.23.29.coffee
+framer/backups/backup-2017-08-30 15.24.29.coffee
+framer/backups/backup-2017-08-30 15.25.29.coffee
+framer/backups/backup-2017-08-30 15.26.29.coffee
+framer/backups/backup-2017-08-30 15.27.29.coffee
+framer/backups/backup-2017-08-30 15.28.29.coffee
+framer/backups/backup-2017-08-30 15.45.29.coffee
+framer/backups/backup-2017-08-30 15.46.29.coffee
+framer/backups/backup-2017-08-30 15.47.29.coffee
+framer/backups/backup-2017-08-30 15.49.29.coffee
+framer/backups/backup-2017-08-30 15.50.29.coffee
+framer/backups/backup-2017-08-30 15.51.29.coffee
+framer/backups/backup-2017-08-30 15.52.29.coffee
+framer/backups/backup-2017-08-30 15.53.29.coffee
+framer/backups/backup-2017-08-30 15.56.29.coffee
+framer/backups/backup-2017-08-30 15.57.29.coffee
+framer/backups/backup-2017-08-30 15.58.29.coffee
+framer/backups/backup-2017-08-30 15.59.29.coffee
+framer/backups/backup-2017-08-30 16.00.29.coffee
+framer/backups/backup-2017-08-30 16.01.29.coffee
+framer/backups/backup-2017-08-30 16.06.29.coffee
+framer/backups/backup-2017-08-30 16.07.29.coffee
+framer/backups/backup-2017-08-30 16.09.29.coffee
+framer/backups/backup-2017-08-30 16.10.29.coffee
+framer/backups/backup-2017-08-30 16.11.29.coffee
+framer/backups/backup-2017-08-30 16.12.29.coffee
+framer/backups/backup-2017-08-30 16.13.29.coffee
+framer/backups/backup-2017-08-30 16.14.29.coffee
+framer/backups/backup-2017-08-30 16.15.29.coffee
+framer/backups/backup-2017-08-30 16.31.29.coffee
+framer/backups/backup-2017-08-30 16.35.29.coffee
+framer/backups/backup-2017-08-30 16.36.29.coffee
+framer/backups/backup-2017-08-30 16.37.29.coffee
+framer/backups/backup-2017-08-30 16.38.29.coffee
+framer/coffee-script.js
+framer/config.json
+framer/design.vekter
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/framer.vekter.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/preview.png
+framer/social-1200x630.png
+framer/social-800x600.png
+framer/social-80x80.png
+framer/social-880x460.png
+framer/style.css
+framer/version
+imported/parallax_demo_01@2x/images/Layer-Circles-rkrcoui3.png
+imported/parallax_demo_01@2x/images/Layer-down_btn-qtfbrtbg.png
+imported/parallax_demo_01@2x/images/Layer-section_1-qumxrjze.png
+imported/parallax_demo_01@2x/images/Layer-section_1_object-mufeotiz.png
+imported/parallax_demo_01@2x/images/Layer-section_2-mji1quiz.png
+imported/parallax_demo_01@2x/images/Layer-section_2_object-nuq2mdg1.png
+imported/parallax_demo_01@2x/images/Layer-section_3-mdk0mkzb.png
+imported/parallax_demo_01@2x/images/Layer-section_3_object-rdqxote4.png
+imported/parallax_demo_01@2x/images/Layer-thed_end-rkuzrtk0.png
+imported/parallax_demo_01@2x/images/Layer-Title-muzeotbf.png
+imported/parallax_demo_01@2x/images/Layer-Triangles-q0y2mzlg.png
+imported/parallax_demo_01@2x/layers.json
+imported/parallax_demo_01@2x/layers.json.js
+index.html
+modules/myModule.coffee
